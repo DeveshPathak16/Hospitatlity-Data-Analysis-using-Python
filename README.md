@@ -1,15 +1,15 @@
 # Hospitality-Data-Analysis-using-Python
-In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that threatened its market share. As an aspiring Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
+In the fast-paced world of luxury hotels, AtliQ Grands faced challenges in revenue and market share. As a Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
 
 Here's a quick glimpse of some noteworthy facts about AtliQ Grands:
 
-➡️AtliQ Grands proudly stands as a five-star hotel chain with a presence in four bustling cities.
+1. AtliQ Grands proudly stands as a five-star hotel chain with a presence in four bustling cities.
 
-➡️Across these urban hubs, AtliQ Grands boasts a network of seven distinct properties, strategically situated to cater to diverse clientele.
+2. Across these urban hubs, AtliQ Grands boasts a network of seven distinct properties, strategically situated to cater to diverse clientele.
 
-➡️Within these upscale properties, guests are offered a choice of four room categories: Elite, Premium, Presidential, and Standard, ensuring a tailored experience for every visitor.
+3. Within these upscale properties, guests are offered a choice of four room categories: Elite, Premium, Presidential, and Standard, ensuring a tailored experience for every visitor.
 
-➡️To enhance guest convenience, AtliQ Grands offers reservations through six prominent booking platforms, optimizing accessibility and ease of booking.
+4. To enhance guest convenience, AtliQ Grands offers reservations through six prominent booking platforms, optimizing accessibility and ease of booking.
 
 Project Scope: My mission was clear - to harness the power of data and perform exploratory data analysis that would pave the way for smarter decision-making at AtliQ Grands. To achieve this, we leveraged several datasets:
 
