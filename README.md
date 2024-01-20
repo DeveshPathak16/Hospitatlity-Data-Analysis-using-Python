@@ -1,1 +1,1 @@
-# Hospitatlity-Data-Analysis-using-Python
+# Hospitality-Data-Analysis-using-Python
